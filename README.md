@@ -1,0 +1,1 @@
+![cpu](./complete-datapath.jpg)
